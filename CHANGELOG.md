@@ -1,3 +1,11 @@
+# [1.25.0](https://github.com/anurag3407/career-pilot/compare/v1.24.0...v1.25.0) (2026-05-26)
+
+
+### Features
+
+* **portfolio:** implement Netflix Browse complete portfolio template ([b6fc3e8](https://github.com/anurag3407/career-pilot/commit/b6fc3e881ca238fb2ef6ec770206367abdfe34d4))
+* **portfolio:** implement Projects section for Holographic Theme ([5fd5369](https://github.com/anurag3407/career-pilot/commit/5fd5369335c94b66220d610bcca593e022e8fc41))
+
 # [1.24.0](https://github.com/anurag3407/career-pilot/compare/v1.23.0...v1.24.0) (2026-05-26)
 
 
