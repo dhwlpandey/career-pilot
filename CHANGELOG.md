@@ -1,3 +1,16 @@
+# [1.38.0](https://github.com/anurag3407/career-pilot/compare/v1.37.0...v1.38.0) (2026-05-27)
+
+
+### Bug Fixes
+
+* Fixes in the Finance Corporate About component ([704ae1b](https://github.com/anurag3407/career-pilot/commit/704ae1b18985fad0f7927509ebbc7be9659e5092))
+
+
+### Features
+
+* added changes to the finance corporate about ([661c335](https://github.com/anurag3407/career-pilot/commit/661c33565a575c6140c0ec59df822264176d3a36))
+* added the About component to the Finance Corporate portfolio theme ([2d1c22c](https://github.com/anurag3407/career-pilot/commit/2d1c22c30cfaec79ae5756f8f006f78c677d1a4d))
+
 # [1.37.0](https://github.com/anurag3407/career-pilot/compare/v1.36.0...v1.37.0) (2026-05-27)
 
 
