@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/assets/banner.png" alt="Career Pilot Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+  <img src="docs/banner.jpg" alt="Career Pilot Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
   <br />
   <h1>🌐 Career Pilot</h1>
   <p>
