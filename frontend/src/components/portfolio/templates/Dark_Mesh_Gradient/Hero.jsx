@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Github, Linkedin, Twitter, Mail, ArrowRight, MousePointerClick } from 'lucide-react';
+import { Github, Linkedin, Twitter, Mail, ArrowRight } from 'lucide-react';
 import data from '../../../../data/dummy_data.json';
 
 export default function Hero() {
