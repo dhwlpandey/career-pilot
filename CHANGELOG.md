@@ -1,3 +1,10 @@
+## [1.92.1](https://github.com/anurag3407/career-pilot/compare/v1.92.0...v1.92.1) (2026-05-29)
+
+
+### Bug Fixes
+
+* resolve greeting bug by integrating profile name state with automated fallback parameters ([b6b672f](https://github.com/anurag3407/career-pilot/commit/b6b672fc53237fa2d32c8ba3109caddfd1fc8128))
+
 # [1.92.0](https://github.com/anurag3407/career-pilot/compare/v1.91.1...v1.92.0) (2026-05-29)
 
 
