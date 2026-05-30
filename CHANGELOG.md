@@ -1,3 +1,10 @@
+# [1.105.0](https://github.com/anurag3407/career-pilot/compare/v1.104.0...v1.105.0) (2026-05-30)
+
+
+### Features
+
+* Add GitHub Profile inspired portfolio theme ([df7f6e7](https://github.com/anurag3407/career-pilot/commit/df7f6e72d141b70725db090c31447dd39522ecde))
+
 # [1.104.0](https://github.com/anurag3407/career-pilot/compare/v1.103.0...v1.104.0) (2026-05-30)
 
 
