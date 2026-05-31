@@ -4,7 +4,7 @@ import { Briefcase, PlusCircle, ArrowRight } from 'lucide-react';
 
 const NotFound = () => {
   return (
-    <div className="min-h-screen bg-[#0a0a0a] text-white flex items-center justify-center px-6 relative overflow-hidden">
+    <div className="min-h-dvh bg-[#0a0a0a] text-white flex items-center justify-center px-6 relative overflow-hidden">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_rgba(0,255,170,0.08),_transparent_60%)]" />
 
       <div className="relative z-10 max-w-2xl w-full bg-[#111111]/80 backdrop-blur-xl border border-white/5 rounded-3xl p-10 md:p-14 text-center shadow-2xl">
